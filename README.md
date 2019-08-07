@@ -1,2 +1,2 @@
-# social_network_analysis_using_graphtool
-Learn about social network analysis using graph-tool package in python. 
+# social_network_analysis
+Learn about social network analysis using graphical packages in python. 
